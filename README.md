@@ -22,4 +22,6 @@
     <img width="30"  align='right' src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
     <img width="30"  align='left' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
     <img width="30"  align='right' src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif">
+    <img width="30"  align='left' src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif">
+    <img width="30"  align='right' src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
 </p>
