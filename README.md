@@ -1,7 +1,8 @@
 <h2> Hi, 👋 I'm devilkun<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
+<p><em>Joy shared with others are more enjoyed.</em></p>
 
-[![GitHub devilkun](https://img.shields.io/github/followers/chavarera?label=follow&style=social)](https://github.com/devilkun)
+[![GitHub devilkun](https://img.shields.io/github/followers/devilkun?label=follow&style=social)](https://github.com/devilkun)
 
 
 <h3>Quick Links</h3>
