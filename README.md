@@ -18,26 +18,8 @@
  
  
  <p align='center'>
-  <img width="30"  align='left' src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif">
+    <img width="30"  height="30" align='left' src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif">
     <img width="30"  align='right' src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
     <img width="30"  align='left' src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
     <img width="30"  align='right' src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif">
 </p>
-
- 
-
-<!--
-**devilkun/devilkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![github stats](https://github-readme-stats.vercel.app/api?username=devilkun)](https://github.com/devilkun)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
