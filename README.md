@@ -8,17 +8,16 @@
 
 <h3>Quick Links</h3>
 <ul >
-  <li><a href="">:green_book:</a></li>
-  <li><a href="">:mortar_board:</a></li>
-    <li><a href="">:page_facing_up:</a></li>
-
-  <li><a href="">:computer:</a></li>
+  <li><a href=""><img width="20"  height='20' src="https://media.giphy.com/media/JdP38jxTGxxrjwbJnD/giphy.gif"></a></li>
+  <li><a href=""><img width="20"  height='20' src="https://media.giphy.com/media/JArJKmyC1fpgTIOjNk/giphy.gif"></a></li>
+  <li><a href=""><img width="20"  height='20' src="https://media.giphy.com/media/cQ8LcScgE7nnRGkI61/giphy.gif"></a></li>
+  <li><a href=""><img width="20"  height='20' src="https://media.giphy.com/media/eZ3JDSxar1V4YcewOD/giphy.gif"></a></li>
 </ul>
 <hr/>
  
  
  <p align='center'>
-    <img width="30"  height='30' align='left' src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif">
+    <img width="30"  height='30'    src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" align='left'>
     <img width="30"  align='right'  src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
     <img width="30"  align='left'   src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
     <img width="30"  align='right'  src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif">
