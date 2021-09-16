@@ -20,6 +20,6 @@
  <p align='center'>
     <img width="30"  height="30" align='left' src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif">
     <img width="30"  align='right' src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
-    <img width="30"  align='left' src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+    <img width="30"  align='left' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
     <img width="30"  align='right' src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif">
 </p>
